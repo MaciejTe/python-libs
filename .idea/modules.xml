@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../avid-ecd-tests/.idea/avid-ecd-tests.iml" filepath="$PROJECT_DIR$/../avid-ecd-tests/.idea/avid-ecd-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/avid-python-libs.iml" filepath="$PROJECT_DIR$/.idea/avid-python-libs.iml" />
+    </modules>
+  </component>
+</project>
