@@ -16,6 +16,7 @@ At this moment project contains following categories of libraries:
 - `exceptions` module contains useful decorators used by other modules and custom exceptions
 - `network` module contains network-related classes
     * SSH manager - class responsible for establishing and managing SSH connections
+    * WinRM manager - class responsible for establishing and managing WinRM connections
 - `misc` module contains other, hard to categorize libraries
     * colored_print.py - class for writing colored output in command line / Jenkins
     * common.py - other functions
