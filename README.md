@@ -52,15 +52,6 @@ RUN apk add libxml2-dev libxslt-dev git
 
 Ordinary python docker images do not require any additional Linux libraries.
 
-## Developing conventions
-
-Every change in code requires merge request and successful code review from at least of project maintainers. 
-
-If you want to build your project docker images locally, remember to add Burlington's Gitlab to DNS entries: 
-```commandline
-docker build -f project_dir/Dockerfile . -t docker_image_name --add-host "burl-gitlab.global.avidww.com:10.101.16.65"
-```
-
 ### Code quality
 
 #### Pylint
