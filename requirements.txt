@@ -14,7 +14,7 @@ cryptography==2.4.2
 defusedxml==0.5.0
 idna==2.7
 isodate==0.6.0
-lxml==4.3.0
+lxml==4.9.1
 more-itertools==4.3.0
 msrest==0.6.2
 msrestazure==0.5.1
